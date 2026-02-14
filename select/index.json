@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Photograph feat. Noa（feat. Noa）",
+  "base_artist": "LGYankees",
+  "createdAt": "2026-02-14T14:29:41.814038Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Photograph feat. Noa",
+      "artist": "LGYankees",
+      "has_synced": false,
+      "path": "select/pl_01_Photograph_feat._Noa_LGYankees.txt"
+    }
+  ]
+}
